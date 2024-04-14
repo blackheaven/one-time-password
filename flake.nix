@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-23.11-small";
     flake-utils.url = "github:numtide/flake-utils";
-    libsodium-bindings.url = "github:haskell-cryptography/libsodium-bindings";
+    libsodium-bindings.url = "github:blackheaven/libsodium-bindings/a7ca63a51dc1821a85e183b0858cb0ed7810cf44";
     chronos = {
       url = "github:byteverse/chronos";
       flake = false;
